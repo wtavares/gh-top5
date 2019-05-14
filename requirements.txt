@@ -1,0 +1,6 @@
+# Core
+Flask==1.0.2
+python-dotenv
+python-jose
+pymysql==0.9.3
+requests
